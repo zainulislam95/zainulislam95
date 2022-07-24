@@ -21,7 +21,7 @@
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft.png"/> </a> 
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a> 
-    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/js.png"/> </a> 
+    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-48.png"/> </a> 
     <a href="https://html.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
     <a href="https://img.icons8.com/color/48/000000/css3.png" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
@@ -32,7 +32,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a>  
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
-    <a href="https://www.nuget.org/" target="_blank"> <img src="https://img.icons8.com/windows/48/000000/nuget.png"/> </a>    
+    <a href="https://www.nuget.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-nuget-a-free-and-open-source-package-manager-designed-for-the-microsoft-development-platform-logo-color-tal-revivo.png"/> </a>    
 
 
 
