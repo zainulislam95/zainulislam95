@@ -19,10 +19,16 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://sql.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> </a> 
+    <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft.png"/> </a> 
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a> 
+    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/material-rounded/48/000000/js.png"/> </a> 
+    <a href="https://html.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
+    <a href="https://img.icons8.com/color/48/000000/css3.png" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>  
+    <a href="https://docs.github.com/en/rest" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a>  
+    <a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language,Start%20learning%20SQL%20now%20%C2%BB" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
 </p>
 
