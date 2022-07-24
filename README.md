@@ -21,7 +21,7 @@
 <p align="left"> 
     <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft.png"/> </a> 
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a> 
-    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/material-rounded/48/000000/js.png"/> </a> 
+    <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/js.png"/> </a> 
     <a href="https://html.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
     <a href="https://img.icons8.com/color/48/000000/css3.png" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
@@ -30,6 +30,12 @@
     <a href="https://docs.github.com/en/rest" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a>  
     <a href="https://www.w3schools.com/sql/#:~:text=SQL%20is%20a%20standard%20language,Start%20learning%20SQL%20now%20%C2%BB" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>    
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a>  
+    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a>
+    <a href="https://www.nuget.org/" target="_blank"> <img src="https://img.icons8.com/windows/48/000000/nuget.png"/> </a>    
+
+
+
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
